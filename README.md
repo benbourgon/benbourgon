@@ -12,4 +12,3 @@ While you're here, please feel free to have a look at <a href="https://benbourgo
 - 📫 How to reach me: <a href="mailto:benbourgon@gmail.com">email me</a> or fill out my contact form <a href="https://www.benbourgon.com/#contact" rel="noopener" target="_blank">here</a>
 - 😄 Pronouns: he/him
 - ⚡️ Interests : I've started getting into tinkering with old Game Boys and gaming hardware recently.
-- 🏀 Fun fact: I'm 6'5, but fairly average at basketball - I love to play though!
