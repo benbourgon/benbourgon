@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Ben, a Front End Developer based in Toronto, ON.
+### Hello! 👋 I'm Ben, a Front End Developer based in Toronto, ON.
 
 I'm at my best when combining my analytic abilities with a creative instinct to solve tough problems and write clean, dry, and accessible code.
 
